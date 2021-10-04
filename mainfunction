@@ -1,0 +1,8 @@
+if __name__=='__main__':
+
+
+    while True:
+        speak("Tell me how can I help you now?")
+        statement = takeCommand().lower()
+        if statement==0:
+            continue
