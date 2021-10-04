@@ -1,0 +1,4 @@
+if "good bye" in statement or "ok bye" in statement or "stop" in statement:
+            speak('your personal assistant mockingjay is shutting down,thank you have a good day :)')
+            print('your personal assistant mockingjay is shutting down,thank you have a good day :)')
+            break
